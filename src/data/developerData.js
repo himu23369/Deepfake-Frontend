@@ -21,7 +21,7 @@ export const people = [
     name: "Arshit Sharma",
     designation: "ML/FullStack-Developer",
     image:
-      "./src/assets/developer/arshit.png",
+      "./assets/developer/arshit.png",
     quote: "Lorem ipsum odor amet, consectetuer adipiscing elit. Pellentesque lectus maximus dui venenatis fermentum sollicitudin. Rhoncus in donec primis pellentesque malesuada id per velit. Montes finibus quis dui auctor vel commodo nam nunc auctor. Nascetur eu volutpat non nisl neque lectus. Urna himenaeos pretium sociosqu ac facilisi. Lobortis habitant laoreet ad convallis tortor adipiscing magna. Molestie ultrices convallis nullam faucibus sed lacinia cursus interdum mollis."
   },
   {
@@ -29,7 +29,7 @@ export const people = [
     name: "Himanshu Bansal",
     designation: "Data Scientist",
     image:
-      "./src/assets/developer/himanshu.jpg",
+      "./assets/developer/himanshu.jpg",
     quote: "enter random quote here",
 
   },
@@ -38,7 +38,7 @@ export const people = [
     name: "Mehak Sharma",
     designation: "Product Manager",
     image:
-      "./src/assets/developer/mehak.png",
+      "./assets/developer/mehak.png",
     quote: "enter random quote here",
 
   },
@@ -47,7 +47,7 @@ export const people = [
     name: "Mukul Jindal",
     designation: "Data Scientist",
     image:
-      "./src/assets/developer/mukul.png",
+      "./assets/developer/mukul.png",
     quote: "enter random quote here",
 
   },
@@ -56,7 +56,7 @@ export const people = [
     name: "Aseem Mittal",
     designation: "Future-second",
     image:
-      "./src/assets/developer/aseem_1.jpg",
+      "./assets/developer/aseem_1.jpg",
     quote: "enter random quote here",
 
   },
