@@ -4,7 +4,7 @@ export const people = [
     name: "Dr. Suresh Raikwar",
     designation: "Mentor",
     image:
-      "./src/assets/developer/dr_suresh.png",
+      "./assets/developer/dr_suresh.png",
 
     quote: `Suresh Raikwar received his Ph.D. in Image Processing from ABV-Indian Institute of Information Technology and Management, Gwalior, India, in 2019. He is currently an Assistant Professor at Thapar Institute of Engineering & Technology, Patiala, Punjab, India. He developed the Dradh Drishti Prabardhak (DDP), a device to assist loco-pilots during poor weather, recognized by NITI Aayog under the Atal Innovation Mission. His research interests include computer vision, image processing, pattern recognition, machine learning, and Generative Adversarial Networks. He has published in reputed journals, transactions, and international conferences and actively reviews for leading journals such as IEEE Transactions on Image Processing, IET Image Processing, and Electronics Letters. He has also chaired and co-chaired several international conferences.`
   },

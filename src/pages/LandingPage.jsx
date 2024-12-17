@@ -107,14 +107,14 @@ export const LandingPage = () => {
 
                         <MagicCard className=" w-2/5 mx-auto h-96">
                             <img
-                                src="src\assets\model_metrices\Training_Val_loss.jpg"
+                                src="\assets\model_metrices\Training_Val_loss.jpg"
                                 className="h-full w-full object-contain object-center"
                                 draggable={false}
                             />
                         </MagicCard>
                         <MagicCard className=" w-2/5 mx-auto h-96">
                             <img
-                                src="src\assets\model_metrices\Training_val_Accuracy.jpg"
+                                src="\assets\model_metrices\Training_val_Accuracy.jpg"
                                 className="h-full w-full object-contain object-center"
                                 draggable={false}
                             />
