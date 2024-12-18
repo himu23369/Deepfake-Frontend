@@ -22,7 +22,8 @@ export const people = [
     designation: "ML/FullStack-Developer",
     image:
       "./assets/developer/arshit.png",
-    quote: "Lorem ipsum odor amet, consectetuer adipiscing elit. Pellentesque lectus maximus dui venenatis fermentum sollicitudin. Rhoncus in donec primis pellentesque malesuada id per velit. Montes finibus quis dui auctor vel commodo nam nunc auctor. Nascetur eu volutpat non nisl neque lectus. Urna himenaeos pretium sociosqu ac facilisi. Lobortis habitant laoreet ad convallis tortor adipiscing magna. Molestie ultrices convallis nullam faucibus sed lacinia cursus interdum mollis."
+    quote: "Arshit Sharma, the Project Leader and Coordinator, responsible for dataset collection, research analysis, backend development, extension testing, and research paper communication."
+     
   },
   {
     id: 4,
@@ -30,7 +31,7 @@ export const people = [
     designation: "Data Scientist",
     image:
       "./assets/developer/himanshu.jpg",
-    quote: "enter random quote here",
+    quote: "Himanshu Bansal, the Developer and Tester of Deep Learning Models, was responsible for evaluation metrics analysis, implementing image and video deep learning models, conducting comparative analysis, and performing data pre-processing.",
 
   },
   {
@@ -39,7 +40,7 @@ export const people = [
     designation: "Product Manager",
     image:
       "./assets/developer/mehak.png",
-    quote: "enter random quote here",
+    quote: "Mehak Sharma, the Developer, was responsible for frontend development, Chrome extension development, UI/UX design, and research paper documentation.",
 
   },
   {
@@ -48,7 +49,7 @@ export const people = [
     designation: "Data Scientist",
     image:
       "./assets/developer/mukul.png",
-    quote: "enter random quote here",
+    quote: "Mukul Jindal, the Developer of Deep Learning Models and Web Interface, was responsible for dataset collection, implementing and testing deep learning models, creating ensembles, and frontend development.",
 
   },
   {
@@ -56,8 +57,8 @@ export const people = [
     name: "Aseem Mittal",
     designation: "Future-second",
     image:
-      "./assets/developer/aseem_1.jpg",
-    quote: "enter random quote here",
+      "./assets/developer/Aseem_1.jpg",
+    quote: "Aseem Mittal, the Data Analyst, was responsible for implementing audio deep learning models, performing keypoint analysis and visualization, dataset collection, and documentation.",
 
   },
 ];

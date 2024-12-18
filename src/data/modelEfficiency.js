@@ -6,7 +6,7 @@ export const modelEfficiency = [
     "Dropout Rate: 0.3 and 0.15",
     "Loss: Binary Crossentropy",
     "Learning Rate Scheduler: ReduceLROnPlateau",
-    "Accuracy: 97%",
-    "Precision: 94%",
-    "Recall: 97%",
+    "Accuracy: 95%",
+    "Precision(Fake/Real): 95%",
+    "Recall(Fake/Real): 94%",
 ]
