@@ -2,6 +2,8 @@
 
 This repository contains the frontend for the Deepfake Detection project. The project is focused on identifying and classifying media as genuine or manipulated. The frontend serves as the user interface for interacting with the model and visualizing the results.
 
+![Home Page](frontend.png)
+
 ## Features
 - **User-friendly Interface**: A simple and intuitive UI for uploading media files.
 - **Authentication System**: Includes signup and signin functionality to manage user accounts securely.
@@ -23,8 +25,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/himu23369/Deepfake-Frontend.git
+   cd frontend
    ```
 
 2. **Install dependencies**:
