@@ -4,6 +4,8 @@ This repository contains the frontend for the Deepfake Detection project. The pr
 
 ![Home Page](./public/assets/images/homePage.png)
 
+![Upload Page](./public/assets/images/upload.png)
+
 ## Features
 - **User-friendly Interface**: A simple and intuitive UI for uploading media files.
 - **Authentication System**: Includes signup and signin functionality to manage user accounts securely.
