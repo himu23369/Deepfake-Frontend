@@ -2,7 +2,7 @@
 
 This repository contains the frontend for the Deepfake Detection project. The project is focused on identifying and classifying media as genuine or manipulated. The frontend serves as the user interface for interacting with the model and visualizing the results.
 
-![Home Page](frontend.png)
+![Home Page](D:\Deepf\DeepFake-Web-App\frontend\public\frontend.png)
 
 ## Features
 - **User-friendly Interface**: A simple and intuitive UI for uploading media files.
